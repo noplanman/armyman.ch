@@ -1,0 +1,11 @@
+# Site settings
+title: Jekyll Playground
+description: Just playin'
+baseurl: ""
+url: "http://armyman.ch"
+
+# Build settings
+markdown: kramdown
+
+# Ignore gems bundled by Travis
+exclude: [vendor]
